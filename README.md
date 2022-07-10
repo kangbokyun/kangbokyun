@@ -1,17 +1,41 @@
-# BokyunKang
+<h1 align = "center">BokyunKang</h1>
 
-
-
-### Front-end
-<div align="center">
-    <img src = "http://img.shields.io/badge/JavaScript-%23F7DF1E?style-flat-square&logo=JavaScript&logoColor=white"/>
+<h3 align = "center">Front-end</h3>
+<div align = "center">
+    <img src="https://img.shields.io/badge/JAVASCIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+</div>
+<div align = "center">
     <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-### Back-end
-<div align="center">
-    <img src = "https://img.shields.io/badge/-Spring--Boot-%236DB33F?style-flat-square&logo=SpringBoot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-</div>
+<br>
 
+
+<h3 align = "center">Back-end</h3>
+<div align = "center">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white">
+    <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+</div>
+<br>
+
+<h3 align = "center">Versoin_Control</h3>
+<div align = "center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+<br>
+
+<h3 align = "center">Database</h3>
+<div align = "center">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+<br>
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangbokyun&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangbokyun&layout=compact&theme=tokyonight)
