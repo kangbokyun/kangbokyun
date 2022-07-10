@@ -42,7 +42,7 @@
 
 <h3 align = "center">Learn & Project Proceeding </h3>
 <div align = "center">
-    <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"> /
+    <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black">
 </div>
 <br>
 
