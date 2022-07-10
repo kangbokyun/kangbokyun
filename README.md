@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 # BokyunKang
 <p>
-    <img src = "http://img.shields.io/badge/JS-JavaScript-%23F7DF1E"/>
+    <img src = "http://img.shields.io/badge/JS-JavaScript-%23F7DF1E"?style=for-the-badge&logo=appveyor/>
 </p>
