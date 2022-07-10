@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# BokyunKang
+<p>
+    <img src = "http://img.shields.io/badge/JS-JavaScript-%23F7DF1E"/>
+</p>
