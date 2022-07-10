@@ -1,4 +1,8 @@
-<h1 align = "center">BokyunKang</h1>
+<div align = "center">
+    <h1 align = "center">BokyunKang</h1>
+    <img src="https://img.shields.io/badge/NAVER-bk940204%40naver.com-green?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
 
 <h3 align = "center">Front-end</h3>
 <div align = "center">
@@ -33,6 +37,12 @@
 <div align = "center">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+<br>
+
+<h3 align = "center">Learn & Project Proceeding </h3>
+<div align = "center">
+    <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"> /
 </div>
 <br>
 
