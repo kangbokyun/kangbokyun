@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 # BokyunKang
 <p>
-    <img src = "http://img.shields.io/badge/JS-JavaScript-%23F7DF1E?style=flat-square&logoColor=yello"/>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
