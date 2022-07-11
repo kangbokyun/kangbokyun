@@ -1,6 +1,6 @@
 <div align = "center">
     <h1 align = "center">BokyunKang</h1>
-    <img src="https://img.shields.io/badge/NAVER-bk940204%40naver.com-green?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/NAVER-bk940204%40naver.com-green?style=for-the-badge&logoColor=black">
 </div>
 
 
