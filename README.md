@@ -43,6 +43,7 @@
 <h3 align = "center">Learn</h3>
 <div align = "center">
     <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black">
+    <br>
     [Learn](https://purrfect-mile-cdc.notion.site/React-Spring-5bf5b5677730480aa9f447d7054883c1)
 </div>
 <br>
