@@ -26,8 +26,8 @@
 
 > Projects
 > ---
->> ### [ JAVA_Console ](https://github.com/kangbokyun/TeamPject)  
->> ### [ JAVAFX ](https://github.com/kangbokyun/CP2)  
+>> ### [ Java_Console ](https://github.com/kangbokyun/TeamPject)  
+>> ### [ JavaFX ](https://github.com/kangbokyun/CP2)  
 >> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp)  
 >> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
 
