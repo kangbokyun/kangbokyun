@@ -5,7 +5,7 @@
   
    
 <h3 align = "center">Front-end</h3>
-<div align = "center">
+<div align = "center"> 
     <img src="https://img.shields.io/badge/JAVASCIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 </div>
