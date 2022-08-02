@@ -1,7 +1,10 @@
->BokyunKang
+> About Me
 <div align = "center">
+    <h3 aplign  "center">BokyunKang</h3>
     <img src="https://img.shields.io/badge/NAVER-bk940204%40naver.com-green?style=for-the-badge&logoColor=black">
 </div>   
+
+-------
   
    
 <h3 align = "center">Front-end</h3>
