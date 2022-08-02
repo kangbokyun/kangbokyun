@@ -1,7 +1,8 @@
 > About Me 
 > ---
-<img src="https://img.shields.io/badge/-Naver-%2303C75A?style=for-the-badge&logo=Naver&logoColor=white"> bk940204@naver.com
-<img src="https://img.shields.io/badge/-bk940204@naver.com-%2303C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<img src="https://img.shields.io/badge/-Naver-%2303C75A?style=for-the-badge&logo=Naver&logoColor=white"><div markdown="1">
+<h3>bk940204@naver.com</h3>
+</div>
 
   
 > TechStack
