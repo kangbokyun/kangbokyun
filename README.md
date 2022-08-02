@@ -2,8 +2,8 @@
 > ---
 >> New Developer
 >> ---
-:smile: Name : KangBoKyun  
-:email: E-mail : bk940204@naver.com
+>>> * :smile: Name : KangBoKyun  
+>>> - :email: E-mail : bk940204@naver.com
 <br />
   
 > TechStack
