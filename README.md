@@ -1,6 +1,6 @@
 > About Me 
 > ---
-<img src="https://img.shields.io/badge/-%2303C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<img src="https://img.shields.io/badge/%2303C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
   
 > TechStack
