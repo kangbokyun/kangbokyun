@@ -26,10 +26,10 @@
 
 > Projects
 > ---
->> [ JAVA_Console ](https://github.com/kangbokyun/TeamPject)  
->> [ JAVAFX ](https://github.com/kangbokyun/CP2)  
->> [ JSP ](https://github.com/kangbokyun/youtube-jsp)  
->> [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
+>> ### [ JAVA_Console ](https://github.com/kangbokyun/TeamPject)  
+>> ### [ JAVAFX ](https://github.com/kangbokyun/CP2)  
+>> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp)  
+>> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangbokyun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangbokyun&layout=compact&theme=tokyonight) 
