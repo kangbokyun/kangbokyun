@@ -51,7 +51,7 @@
 </div>
 <br> 
 
-[Learning Log](https://purrfect-mile-cdc.notion.site/React-Spring-5bf5b5677730480aa9f447d7054883c1)
+<center>[Learning Log](https://purrfect-mile-cdc.notion.site/React-Spring-5bf5b5677730480aa9f447d7054883c1)</center>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangbokyun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangbokyun&layout=compact&theme=tokyonight) 
