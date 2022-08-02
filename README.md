@@ -13,14 +13,8 @@
     
 
 
->> ### Back-end
-<div>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white">
-    <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-</div>
-<br>
+>> ### Back-end : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white"> <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+>> ---
 
 <h3 align = "center">Versoin_Control</h3>
 <div align = "center">
