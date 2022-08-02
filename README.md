@@ -18,9 +18,8 @@
 </div>
 <br>
 
-
-<h3 align = "center">Back-end</h3>
-<div align = "center">
+>> ### Back-end
+<div>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white">
     <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
