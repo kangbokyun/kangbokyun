@@ -18,17 +18,9 @@
 >> ### Versoin_Control : <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 >> ---
 
->> ### --- Database <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-</div>
-<br>
+>> ### Database <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-<h3 align = "center">Learn</h3>
-<div align = "center">
-    <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black">
-    <br>
-</div>
-<br> 
-
+>> Learn : <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black">
 [Learning Log](https://purrfect-mile-cdc.notion.site/React-Spring-5bf5b5677730480aa9f447d7054883c1)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangbokyun&show_icons=true&theme=tokyonight)
