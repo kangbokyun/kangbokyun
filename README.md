@@ -3,7 +3,8 @@
 >> New Developer
 >> ---
 >>> * :smile: Name : KangBoKyun  
->>> - :email: E-mail : bk940204@naver.com
+>>> - :mailbox_with_mail: E-mail : bk940204@naver.com
+>>> + :clipboard: Hope : Back-End
 <br />
 <br />
   
