@@ -40,7 +40,9 @@
 <br />
 <br />
 
-> GitHub Status
+> GitHub Stats
 > ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangbokyun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangbokyun&layout=compact&theme=tokyonight) 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
