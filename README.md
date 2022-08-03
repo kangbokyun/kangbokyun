@@ -24,18 +24,22 @@
 <br />
 
 <div>
-  <div align = "left">
+  <div align = "left" style = "width : 45%;">
+
 > Projects
 > ---
 >> ### [ Java_Console ](https://github.com/kangbokyun/TeamPject)  
 >> ### [ JavaFX ](https://github.com/kangbokyun/CP2)  
 >> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp)  
 >> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
+
   </div>
   <div align = "right">
+
 > Project View
 > ---
 >> 업데이트 예정입니다.
+  
   </div>
 </div>
 
