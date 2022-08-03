@@ -36,6 +36,10 @@
 <br />
 <br />
 
+> Project View
+> ---
+>> 업데이트 예정입니다.
+
 > GitHub Status
 > ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangbokyun&show_icons=true&theme=tokyonight)
