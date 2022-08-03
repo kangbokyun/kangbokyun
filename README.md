@@ -24,7 +24,7 @@
 <br />
 
 <div>
-  <div>
+  <div style = "width : 100px;">
 
 > Projects
 > ---
