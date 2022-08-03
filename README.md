@@ -23,9 +23,6 @@
 <br />
 <br />
 
-<div>
-  <div align = "left" style = "width : 45%;">
-
 > Projects
 > ---
 >> ### [ Java_Console ](https://github.com/kangbokyun/TeamPject)  
@@ -33,15 +30,12 @@
 >> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp)  
 >> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
 
-  </div>
-  <div align = "right">
+<br />
+<br />
 
 > Project View
 > ---
 >> 업데이트 예정입니다.
-  
-  </div>
-</div>
 
 <br />
 <br />
