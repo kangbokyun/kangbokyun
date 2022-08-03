@@ -23,6 +23,9 @@
 <br />
 <br />
 
+<div>
+  
+
 > Projects
 > ---
 >> ### [ Java_Console ](https://github.com/kangbokyun/TeamPject)  
@@ -36,6 +39,9 @@
 > Project View
 > ---
 >> 업데이트 예정입니다.
+  
+  
+</div>
 
 <br />
 <br />
