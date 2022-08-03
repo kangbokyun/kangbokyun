@@ -24,7 +24,6 @@
 <br />
 
 <div>
-  
 
 > Projects
 > ---
@@ -33,13 +32,10 @@
 >> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp)  
 >> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
 
-<br />
-<br />
 
 > Project View
 > ---
 >> 업데이트 예정입니다.
-  
   
 </div>
 
