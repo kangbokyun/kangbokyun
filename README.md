@@ -24,7 +24,7 @@
 <br />
 
 <div>
-  <div style = "width : 100px;">
+  <div align = "left">
 
 > Projects
 > ---
@@ -34,7 +34,7 @@
 >> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
 
   </div>
-  <div>
+  <div align = "right">
 
 > Project View
 > ---
