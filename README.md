@@ -22,6 +22,8 @@
 
 <br />
 <br  />
+<br />
+<br />
 
 <div align = "left">
 
@@ -33,13 +35,13 @@
 >> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
   
 </div>
-
-<br />
-<br />
+<div align = "center">
 
 > Project View
 > ---
 >> 업데이트 예정입니다.
+  
+</div>
 
 <br />
 <br />
