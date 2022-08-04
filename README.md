@@ -33,10 +33,8 @@
 >> ### [ JavaFX ](https://github.com/kangbokyun/CP2)  
 >> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp)  
 >> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
-  
 </div>
 <div align = "center">
-
 > Project View
 > ---
 >> 업데이트 예정입니다.
