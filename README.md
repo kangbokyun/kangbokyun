@@ -21,7 +21,7 @@
 >> ### Tools  <img src="https://img.shields.io/badge/-Eclipse%20IDE-%232C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 
 <br />
-<br />
+<br  />
 
 > Projects
 > ---
