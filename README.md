@@ -23,7 +23,7 @@
 <br />
 <br  />
 
-> Projects
+> Projects                      Project View
 > ---
 >> ### [ Java_Console ](https://github.com/kangbokyun/TeamPject)  
 >> ### [ JavaFX ](https://github.com/kangbokyun/CP2)  
