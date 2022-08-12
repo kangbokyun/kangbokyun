@@ -26,10 +26,10 @@
 
 > Projects
 > ---
->> ### [ Java_Console ](https://github.com/kangbokyun/TeamPject)  
->> ### [ JavaFX ](https://github.com/kangbokyun/CP2)  
->> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp)  
->> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo)
+>> ### [ Java_Console : PC방 관리프로그램 ](https://github.com/kangbokyun/TeamPject)  
+>> ### [ JavaFX : 가즈아코인 ](https://github.com/kangbokyun/CP2)  
+>> ### [ JSP : VideoPlatform ](https://github.com/kangbokyun/youtube-jsp)  
+>> ### [ Spring : 주주클럽 ](https://github.com/kangbokyun/Spring_ZooZoo)
 
 <br  />
 <br  />
