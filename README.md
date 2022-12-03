@@ -22,8 +22,8 @@
 >> ### Database  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-MSsql-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white">
 >> ### Tools  <img src="https://img.shields.io/badge/-Eclipse%20IDE-%232C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
 
-<br  />
-<br  /> 
+<br />
+<br /> 
 
 > Projects 
 > ---
@@ -33,7 +33,7 @@
 >> ### [ Spring : 주주클럽 ](https://github.com/kangbokyun/Spring_ZooZoo)
 >> ### [ Spring : Karaokelon ](https://github.com/kangbokyun/SpringAPI)
 
-<br  />
+<br />
 <br  />
 
 > Project View
