@@ -3,7 +3,7 @@
 > About Me 
 > ---
 >> New Developer
->> --- 
+>> ---
 >>> * :smile: Name : Kang BoKyun  
 >>> - :mailbox_with_mail: E-mail : bk940204@naver.com
 >>> + :clipboard:  Hope : Back-End 
