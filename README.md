@@ -32,7 +32,7 @@
 >> ### [ JSP : VideoPlatform DUBU ](https://github.com/kangbokyun/youtube-jsp)  
 >> ### [ Spring : 주주클럽 ](https://github.com/kangbokyun/Spring_ZooZoo)
 >> ### [ Spring : Karaokelon ](https://github.com/kangbokyun/SpringAPI) 
->> ### [ React & Spring : SubMate(진행중) ](https://github.com/kangbokyun/SubMate_React)
+>> ### [ React ](https://github.com/kangbokyun/SubMate_React) & [ Spring ](https://github.com/kangbokyun/SubMate_Spring) : SubMate(진행중)
 
 <br />
 <br />
