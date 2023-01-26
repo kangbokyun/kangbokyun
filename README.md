@@ -25,19 +25,12 @@
 
 > Projects 
 > ---
->> ### [ Java_Console : PC방 관리프로그램 ](https://github.com/kangbokyun/TeamPject)  
->> ### [ JavaFX : 가즈아코인 ](https://github.com/kangbokyun/CP2)  
->> ### [ JSP : VideoPlatform DUBU ](https://github.com/kangbokyun/youtube-jsp)  
->> ### [ Spring : 주주클럽 ](https://github.com/kangbokyun/Spring_ZooZoo)
->> ### [ Spring : Karaokelon ](https://github.com/kangbokyun/SpringAPI) 
+>> ### [ Java_Console ](https://github.com/kangbokyun/TeamPject) : PC방 관리프로그램  
+>> ### [ JavaFX ](https://github.com/kangbokyun/CP2) : 가즈아코인  
+>> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp) : VideoPlatform DUBU  
+>> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo) : 주주클럽  
+>> ### [ Spring ](https://github.com/kangbokyun/SpringAPI) : Karaokelon  
 >> ### [ React ](https://github.com/kangbokyun/SubMate_React) & [ Spring ](https://github.com/kangbokyun/SubMate_Spring) : SubMate
-
-<br />
-<br />
-
-> Project View
-> ---
->> 곧 업데이트 예정입니다.
 
 <br  />
 <br />
