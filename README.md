@@ -29,7 +29,7 @@
 >> ### [ JavaFX ](https://github.com/kangbokyun/CP2) : 가즈아코인  
 >> ### [ JSP ](https://github.com/kangbokyun/youtube-jsp) : VideoPlatform DUBU  
 >> ### [ Spring ](https://github.com/kangbokyun/Spring_ZooZoo) : 주주클럽  
->> ### [ Spring ](https://github.com/kangbokyun/SpringAPI) : Karaokelon  
+>> ### [ Spring ](https://github.com/kangbokyun/Karaokelon/blob/master/README.md) : Karaokelon  
 >> ### [ React ](https://github.com/kangbokyun/SubMate_React) & [ Spring ](https://github.com/kangbokyun/SubMate_Spring) : SubMate
 
 <br  />
