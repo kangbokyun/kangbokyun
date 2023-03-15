@@ -31,7 +31,7 @@
 >> ### [ Spring ](https://github.com/kangbokyun/Karaokelon/blob/master/README.md) : Karaokelon  
 >> ### [ React ](https://github.com/kangbokyun/SubMate_React) & [ Spring ](https://github.com/kangbokyun/SubMate_Spring) : SubMate(React 링크에 리드미 있습니다.)
 
-▲ 업데이트 중입니다.
+▲ SubMate업데이트 중입니다.
 
 <br  />
 <br />
