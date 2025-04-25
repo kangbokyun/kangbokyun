@@ -32,8 +32,6 @@
 >> ### [ Spring ](https://github.com/kangbokyun/Karaokelon/blob/master/README.md) : Karaokelon  
 >> ### [ React ](https://github.com/kangbokyun/SubMate_React) & [ Spring ](https://github.com/kangbokyun/SubMate_Spring) : SubMate(React 링크에 리드미 있습니다.)
 
-▲ SubMate 버전 업데이트 중입니다.
-
 ## [ Notion ](https://purrfect-mile-cdc.notion.site/Bokyun-Kang-fab3882e2b334ad8b6b84f9f43e2d30a) 포트폴리오 정리되어 있습니다.
 
 <br  />
