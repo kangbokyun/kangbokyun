@@ -2,14 +2,27 @@
 
 ## 🛠️ Tech stack
 <table style = "width: 100%; border: none;">
-  <tr>
-    <td style = "width: 15%;">FRONT-END</td>
-    <td style = "width: 35%;">
+  <tr style = "border: none;">
+    <td style = "width: 15%; border: none;">FRONT-END</td>
+    <td style = "width: 35%; border: none;">
       <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> 
       <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60">
     </td>
-    <td style = "width: 15%;">BACK-END</td>
-    <td style = "width: 35%;">
+    <td style = "width: 15%; border: none;">BACK-END</td>
+    <td style = "width: 35%; border: none;">
+      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> 
+      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> 
+      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60">  
+    </td>
+  </tr>
+  <tr style = "border: none;">
+    <td style = "width: 15%; border: none;">DATABASE</td>
+    <td style = "width: 35%; border: none;">
+      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> 
+      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60">
+    </td>
+    <td style = "width: 15%; border: none;">BACK-END</td>
+    <td style = "width: 35%; border: none;">
       <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> 
       <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> 
       <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60">  
