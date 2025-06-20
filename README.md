@@ -1,13 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3500&pause=1000&width=500&height=70&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B0%95%EB%B3%B4%EA%B7%A0%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
-<div style="display: flex;">
-    <div style="flex: 1; padding-right: 10px;"> 
+<div style="overflow: auto;"> <!-- 💡💡💡 부모 요소에 overflow: auto 또는 clearfix 스타일 필요! float 요소의 높이를 인식하게 함 -->
+    <div style="float: left; width: 50%; padding-right: 10px;"> <!-- 💡💡💡 왼쪽 열: float: left 와 너비 설정 -->
         ### 왼쪽 열 제목
         여기는 왼쪽 열 내용입니다.
+        마크다운 문법도 사용할 수 있어요!
+        - 목록 1
+        - 목록 2
     </div>
-    <div style="flex: 1; padding-left: 10px;"> 
+    <div style="float: left; width: 50%; padding-left: 10px;"> <!-- 💡💡💡 오른쪽 열: float: left 와 너비 설정 -->
         ### 오른쪽 열 제목
         여기는 오른쪽 열 내용입니다.
+        **볼드체**나 *이탤릭체*도 가능해요.
+        `코드`도 넣을 수 있죠.
     </div>
 </div>
 
