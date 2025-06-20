@@ -1,21 +1,49 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3500&pause=1000&width=500&height=70&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B0%95%EB%B3%B4%EA%B7%A0%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 ## 🛠️ Tech stack
-<div class="grid-container">
-  <div class="grid-item">
-    <h2>FRONT-END</h2>
-  </div>
-  <div class="grid-item image-column">
-    <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> 
-    <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60">
-  </div>
-  <div class="grid-item">
-    <h2>BACK-END</h2>
-  </div>
-  <div class="grid-item image-column">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>내 멋진 페이지</title>
+  <style>
+    /* 여기에 아까 그 CSS 코드를 넣으면 돼! */
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+    }
+
+    .grid-item {
+      padding: 10px;
+      border: 1px solid #eee;
+    }
+
+    .image-column img {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid-container">
+    <div class="grid-item">
+      <h2>FRONT-END</h2>
+    </div>
+    <div class="grid-item image-column">
+      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> 
+      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60">
+    </div>
+    <div class="grid-item">
+      <h2>BACK-END</h2>
+    </div>
+    <div class="grid-item image-column">
     <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60">
+    </div>
   </div>
-</div>
+</body>
+</html>
 
 
 <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60">
