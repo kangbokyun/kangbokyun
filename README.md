@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3500&pause=1000&width=500&height=70&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B0%95%EB%B3%B4%EA%B7%A0%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 ## 🛠️ Tech stack
-<img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60">
---
-<img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60"> 
+|---|---|---|---|
+| FRONT-END | <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60"> | BACK-END | 
+<img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60">  |
+
+
+<img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60">
 
 > About Me
 > ---
