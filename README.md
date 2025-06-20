@@ -3,42 +3,8 @@
 ## 🛠️ Tech stack
 | FRONT-END | <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60"> | BACK-END | <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60"> | DATABASE | <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/database/maria/mariadb.svg" alt="MariaDB" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/database/mysql/mysql.svg" alt="MySQL" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/database/redis/redis.svg" alt="Redis" width="60" height="60">
 |---|---|---|---|---|---|
+| INFRA | <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/docker/docker.svg" alt="Docker" width="60" height="60"> |
 
-
-<table style = "width: 100%; border: none;">
-  <tr style = "border: none;">
-    <td style = "width: 15%; border: none;">FRONT-END</td>
-    <td style = "width: 35%; border: none;">
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> 
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60">
-    </td>
-    <td style = "width: 15%; border: none;">BACK-END</td>
-    <td style = "width: 35%; border: none;">
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> 
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> 
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60">  
-    </td>
-  </tr>
-  <tr style = "border: none;">
-    <td style = "width: 15%; border: none;">DATABASE</td>
-    <td style = "width: 35%; border: none;">
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> 
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60">
-    </td>
-    <td style = "width: 15%; border: none;">BACK-END</td>
-    <td style = "width: 35%; border: none;">
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> 
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> 
-      <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60">  
-    </td>
-  </tr>
-</table>
-      
-    
-    
-
-
-<img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60">
 
 > About Me
 > ---
