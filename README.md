@@ -2,7 +2,7 @@
 
 ## 🛠️ Tech stack
 ---
-[Android](https://github.com/kangbokyun/tech-stack-repo/tree/main/icon/svg/android)
+<img src="https://github.com/kangbokyun/tech-stack-repo/tree/main/icon/svg/android" alt="Android" width="60" height="60">
 
 > About Me
 > ---
