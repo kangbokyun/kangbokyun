@@ -2,7 +2,8 @@
 
 ## 🛠️ Tech stack
 ### 💻 Front-End
-<img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60">
+| <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/android/android.svg" alt="Android" width="60" height="60"> Android | <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/react/react.svg" alt="React" width="60" height="60"> React |
+|---|---|
 
 ### ⚙️ Back-End
 <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/kotlin/kotlin.svg" alt="Kotlin" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring.svg" alt="Spring" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/spring/spring-boot.svg" alt="SpringBoot" width="60" height="60"> <img src="https://kangbokyun.github.io/tech-stack-repo/icon/svg/gradle/gradle.svg" alt="Gradle" width="60" height="60">
