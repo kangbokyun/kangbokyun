@@ -3,6 +3,10 @@
 ## 📜 Portfolio
 [Notion](https://purrfect-mile-cdc.notion.site/Bokyun-Kang-fab3882e2b334ad8b6b84f9f43e2d30a?source=copy_link)
 
+<br/>
+<br/>
+<br/>
+
 ## 🛠️ Tech stack
 ### 💻 Front-End
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
