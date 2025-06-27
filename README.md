@@ -1,9 +1,9 @@
 ## 백엔드 개발자 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=25&duration=1700&pause=10&center=true&vCenter=true&random=true&width=65&height=25&lines=%EA%B0%95%EB%B3%B4%EA%B7%A0)](https://git.io/typing-svg)입니다.
 
 <details>
-  <summary>Intro. 제 깃허브에 방문해 주셔서 감사합니다.</summary>
+  <summary>Intro.</summary>
 
-
+  - 제 깃허브를 방문해 주셔서 감사합니다.
   - 사이드 프로젝트 하는 것을 좋아합니다.
   - 새로운 것을 습득하고 활용해보기 위해 노력합니다.
 </details>
