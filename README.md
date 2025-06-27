@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3500&pause=1000&width=500&height=70&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B0%95%EB%B3%B4%EA%B7%A0%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+### 백엔드 개발자 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=1700&pause=10&random=true&width=500&height=70&lines=%EA%B0%95%EB%B3%B4%EA%B7%A0)](https://git.io/typing-svg)입니다.
 
 ## 📜 Portfolio
 [Notion](https://purrfect-mile-cdc.notion.site/Bokyun-Kang-fab3882e2b334ad8b6b84f9f43e2d30a?source=copy_link)
