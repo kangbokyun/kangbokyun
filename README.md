@@ -6,8 +6,8 @@
 
   - 사이드 프로젝트 하는 것을 좋아합니다.
   - 새로운 것을 습득하고 활용해보기 위해 노력합니다.
-
-  
+</details>
+<details>
   <summary>Contact.</summary>
 
   - Phone. 010-4152-9550
