@@ -1,5 +1,5 @@
 ## 백엔드 개발자 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=25&duration=1700&pause=10&center=true&vCenter=true&random=true&width=65&height=25&lines=%EA%B0%95%EB%B3%B4%EA%B7%A0)](https://git.io/typing-svg)입니다.
-
+ 
 <details>
   <summary>Intro.</summary>
 
